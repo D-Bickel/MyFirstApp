@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <color name="red">#FF0000</color>
+    <string name="hi_my_name">Hi, my name is Daniel!</string>
+    <string name="click_me">Click Me!</string>
+</resources>
